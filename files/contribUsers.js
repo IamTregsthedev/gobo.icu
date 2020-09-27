@@ -2,12 +2,12 @@ var contribUsersList = {
   "content-order": [
     "KennethSweezy",
     "Andreto",
-    "space-elephant",
-    "IamTregsthedev",
+    "space-elephant"
     "br",
     "jamesbmadden",
     "Chexbox",
     "ncomendant",
+ "IamTregsthedev",
     "appy9",
     "br",
     "RainbowLegend",
@@ -76,7 +76,7 @@ var contribUsersList = {
       username: "Arav Narula",
       userid: "21000033",
       link: "https://aravnarula.com",
-      team: "1"
+      team: "0"
     },
     MS72: {
       username: "M-S-72",
